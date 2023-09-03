@@ -7,4 +7,4 @@ tags:
   - tech_tools
 enableToc:
 ---
-learn more [here](https://www.raycast.com/faq).
+- learn more [here](https://www.raycast.com/faq).
