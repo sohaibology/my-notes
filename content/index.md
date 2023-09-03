@@ -2,7 +2,9 @@
 title: Welcome!
 enableToc: false
 ---
-*this site is under development.*
+
+> [!warning] this site is under development
+
 ## Hi, I'm Sohaib.
 
 - 👋  I'm a 4th year undergrad student in the religious studies program.
