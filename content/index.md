@@ -3,21 +3,8 @@ title: Welcome!
 enableToc: false
 ---
 
-> [!warning] this site is under development
+> [!warning] this site is under active development
 
-## Hi, I'm Sohaib.
+Hi there, I'm Sohaib. I'm a fourth-year undergraduate student majoring in religious studies as I'm deeply interested in the critical academic study of [religion](https://en.wikipedia.org/wiki/Religion). I'm also passionate about [pedagogy](https://en.wikipedia.org/wiki/Pedagogy), programming, and all things [tech](https://en.wikipedia.org/wiki/Technology). You'll often find me immersed in the world of [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management), constantly tinkering and improving my system.
 
-- 👋  I'm a 4th year undergrad student in the religious studies program.
-- 📿  My primary interest is in the critical academic study of [[religion]].
-- 🤓  I am also passionate about [[pedagogy]], programming, and all thing [[tech_tools|tech]].
-- 🛠️  I can usually be found working on [[pkm|personal knowledge management]].
-- 💬  Talk to me on [Bluesky](https://bsky.app/profile/sohaibology.bsky.social), [Mastodon](https://mstdn.social/@sohaibology) or [Twitter](https://twitter.com/sohaibology)
-
-## What is this place?
-After the fall of twitter, I realized a need for a secure and customizable platform to share my thoughts.
-
-
-
-
-
-If you want to support my work, please consider [buying me a coffee](https://bmc.link/sohaibology).
+If you'd like to chat with me, connect on [Bluesky](https://bsky.app/profile/sohaibology.bsky.social), [Mastodon](https://mstdn.social/@sohaibology), or [Twitter](https://twitter.com/sohaibology). Feel free to reach out with any questions!
