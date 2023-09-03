@@ -1,8 +1,8 @@
 ---
-title: Religion - The Basics
+title: "Religion: The Basics"
 aliases:
-  - Religion - The Basics
+  - "Religion: The Basics"
 tags:
   - book
-weight:
+  - academic
 ---

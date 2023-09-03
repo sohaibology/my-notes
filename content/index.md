@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-enableToc: false
+enableToc:
 ---
 
 ## Hi, I'm Sohaib.
