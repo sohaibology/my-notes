@@ -2,6 +2,7 @@
 title: Notion
 aliases:
   - Notion
+date: 
 tags:
   - tech_tools
 weight: 

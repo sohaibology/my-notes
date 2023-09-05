@@ -2,6 +2,7 @@
 title: Obsidian
 aliases:
   - Obsidian
+date: 
 tags:
   - tech_tools
 weight: 
