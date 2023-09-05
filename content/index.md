@@ -16,5 +16,5 @@ Hi there, I'm Sohaib.
 Take a look around, you may find something interesting:
 - [[book|Books]]
 - [[article|Articles]]
-- [[concepts/index|Concepts]]
+- [[concept|Concepts]]
 - my [[tech_tools|Toolbox]]
