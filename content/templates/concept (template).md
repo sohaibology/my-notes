@@ -2,5 +2,6 @@
 title: 
 aliases: []
 date: 
-tags: []
+tags:
+  - concept
 ---
