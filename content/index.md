@@ -13,11 +13,8 @@ Hi there, I'm Sohaib.
 - 🛠️  I can found working on my [[pkm|personal knowledge management]].
 - 💬  Talk to me on [Bluesky](https://bsky.app/profile/sohaibology.bsky.social), [Mastodon](https://mstdn.social/@sohaibology) or [Twitter](https://twitter.com/sohaibology).
 
-Here's a short list of what you may find intresting:
+Take a look around, you may find something interesting:
 - [[book|Books]]
 - [[article|Articles]]
 - [[concepts/index|Concepts]]
 - my [[tech_tools|Toolbox]]
-
-> [!tip]
-> Click through the "backlinks" to explore other nuggets of knowledge.

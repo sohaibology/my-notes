@@ -3,7 +3,8 @@ title: Digital Garden
 aliases:
   - Digital Garden
 date: 2023-09-05
-tags: []
+tags:
+  - concept
 enableToc: false
 ---
 

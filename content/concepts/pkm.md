@@ -3,8 +3,9 @@ title: Personal Knowledge Management
 aliases:
   - pkm
   - personal knowledge management
-tags: []
-weight:
+date: 
+tags:
+  - concept
 ---
 It is the practice of effectively organizing, managing, and utilizing my personal knowledge and information. It involves various techniques, tools, and strategies that I use to curate information relevant to my learning.
 

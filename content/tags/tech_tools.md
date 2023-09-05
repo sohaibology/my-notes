@@ -4,4 +4,4 @@ aliases:
   - tech_tools
   - Toolbox
 ---
-*Here are some of the tools essential to my workflow:*
+*Here are some tools essential to my workflow:*
