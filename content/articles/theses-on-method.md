@@ -2,9 +2,9 @@
 title: Theses on Method
 aliases:
   - Theses on Method
+date: 2023-08-12
 tags:
   - article
-weight:
 ---
 The following theses by [[bruce-lincoln|Prof. Lincoln]] are taken from [*Method & Theory in the Study of Religion* vol. 8 (1996): 225-27](https://www.jstor.org/stable/23551717) are reproduced here, only for my personal use.
 1. The conjunction “of” that joins the two nouns in the disciplinary ethnonym “History of Religions” is not neutral filler. Rather, it announces a proprietary claim and a relation of encompassment: ==history is the method and religion the object of study==.

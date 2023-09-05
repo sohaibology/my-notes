@@ -2,7 +2,7 @@
 title: Hegemony
 aliases:
   - Hegemony
-date: 
+date: 2023-08-12
 tags:
   - concept
 ---
