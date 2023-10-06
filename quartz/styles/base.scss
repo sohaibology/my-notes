@@ -95,6 +95,8 @@ a {
   }
 
   & article {
+    position: relative;
+
     & > h1 {
       font-size: 2rem;
     }
@@ -446,7 +448,7 @@ video {
 
 ul.overflow,
 ol.overflow {
-  max-height: 300;
+  max-height: 400;
   overflow-y: auto;
 
   // clearfix
