@@ -2,7 +2,7 @@ import { Root } from "hast"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
 import { escapeHTML } from "../../util/escape"
-import { FilePath, FullSlug, SimpleSlug, simplifySlug } from "../../util/path"
+import { FilePath, FullSlug, SimpleSlug, joinSegments, simplifySlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { toHtml } from "hast-util-to-html"
 import path from "path"
@@ -37,7 +37,7 @@ const defaultOptions: Options = {
 function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndex): string {
   const base = cfg.baseUrl ?? ""
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<url>
-    <loc>https://${base}/${encodeURI(slug)}</loc>
+    <loc>https://${joinSegments(base, encodeURI(slug))}</loc>
     <lastmod>${content.date?.toISOString()}</lastmod>
   </url>`
   const urls = Array.from(idx)
@@ -48,12 +48,11 @@ function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndex): string {
 
 function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, limit?: number): string {
   const base = cfg.baseUrl ?? ""
-  const root = `https://${base}`
 
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<item>
     <title>${escapeHTML(content.title)}</title>
-    <link>${root}/${encodeURI(slug)}</link>
-    <guid>${root}/${encodeURI(slug)}</guid>
+    <link>https://${joinSegments(base, encodeURI(slug))}</link>
+    <guid>https://${joinSegments(base, encodeURI(slug))}</guid>
     <description>${content.richContent ?? content.description}</description>
     <pubDate>${content.date?.toUTCString()}</pubDate>
   </item>`
@@ -78,7 +77,7 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, limit?: nu
 <rss version="2.0">
     <channel>
       <title>${escapeHTML(cfg.pageTitle)}</title>
-      <link>${root}</link>
+      <link>https://${base}</link>
       <description>${!!limit ? `Last ${limit} notes` : "Recent notes"} on ${escapeHTML(
         cfg.pageTitle,
       )}</description>
